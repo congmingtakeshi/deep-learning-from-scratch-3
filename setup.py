@@ -11,3 +11,4 @@ setup(name='dezero',
       url='',
       packages=['dezero'],
       )
+print("finish")
